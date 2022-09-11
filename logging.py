@@ -1,4 +1,4 @@
-username = "satan98"
+username = "kkk"
 password = "12345"
 user_name = input("please enter your username? ")
 pass_word = input("Please enter your password? ")
